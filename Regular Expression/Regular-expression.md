@@ -2,7 +2,7 @@
 A regular expression, commonly called a “regexp”, is a sequence of characters that define a search pattern.  It is mainly for use in pattern matching with strings, or string matching (i.e. it operates like a “find and replace” command). While it is a very powerful tool, it is also very dangerous because of its complexity.
 
 
-https://alx-intranet.hbtn.io/images/contents/sysadmin/concepts/29/regex_now_2_problems.jpg
+![image](https://user-images.githubusercontent.com/99530400/180960701-54399b60-15bf-47c0-9e5a-f75f5e20b9db.png)
 
 
 [Some people, when confronted with a problem, think](https://alx-intranet.hbtn.io/rltoken/bg6ER7JUhyuRtTu9-vpQuw) [“I know, I’ll use regular expressions.”   Now they have two problems](https://alx-intranet.hbtn.io/rltoken/bg6ER7JUhyuRtTu9-vpQuw). (super classic joke in the industry)
